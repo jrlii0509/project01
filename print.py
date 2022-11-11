@@ -3,3 +3,4 @@ for i in range(1,3):
   
 print("first python project")
 print("push")
+print("pull")
